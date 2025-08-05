@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1754389666634,
+    "description" : "This is for SQl to snowflake data ingestion for cms_dbo",
+    "identifier" : "CMSDBO",
+    "lastModifiedTimestamp" : 1754389666634,
+    "name" : "CMS_DBO",
+    "versionCount" : 0
+  },
+  "latest" : false
+}

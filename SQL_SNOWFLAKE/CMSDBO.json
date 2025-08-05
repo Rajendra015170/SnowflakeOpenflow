@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1754389291152,
+    "description" : "This is Sql to snowflake cmsdbo source data pipeline",
+    "identifier" : "CMSDBO",
+    "lastModifiedTimestamp" : 1754389291152,
+    "name" : "CMS_DBO",
+    "versionCount" : 0
+  },
+  "latest" : false
+}

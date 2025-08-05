@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1754388476355,
+    "description" : "This flow is to load data from postgress to snowflake",
+    "identifier" : "CMSDBO",
+    "lastModifiedTimestamp" : 1754388476355,
+    "name" : "CMS_DBO",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
